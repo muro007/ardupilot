@@ -36,3 +36,7 @@ Shinya Oda
 Kouichi Nakajima
 Yuki Yoshioka
 Takanobu Minoshima
+<<<<<<< HEAD
+=======
+Fumikatsu Murozaki
+>>>>>>> parent of f7f4019... added name to GIT_Success.txt
