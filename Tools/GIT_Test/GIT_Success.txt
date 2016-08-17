@@ -37,10 +37,6 @@ Kouichi Nakajima
 Yuki Yoshioka
 Takanobu Minoshima
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Fumikatsu Murozaki
->>>>>>> parent of f7f4019... added name to GIT_Success.txt
 =======
 Fumikatsu Murozaki
 >>>>>>> parent of f7f4019... added name to GIT_Success.txt
